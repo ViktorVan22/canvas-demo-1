@@ -11,6 +11,11 @@ div{
     display: block
 }
 
+body{
+    overflow: hidden;
+}
+
 #canvas{
     border: 1px solid red;
+    
 }
